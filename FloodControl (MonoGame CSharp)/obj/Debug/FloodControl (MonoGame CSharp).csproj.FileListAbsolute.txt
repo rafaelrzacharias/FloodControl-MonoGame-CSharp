@@ -1,0 +1,21 @@
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\FloodControl (MonoGame CSharp).exe
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\FloodControl (MonoGame CSharp).pdb
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\obj\Debug\FloodControl (MonoGame CSharp).csproj.CoreCompileInputs.cache
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\obj\Debug\FloodControl (MonoGame CSharp).exe
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\obj\Debug\FloodControl (MonoGame CSharp).pdb
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\Content\Fonts\Pericles36.xnb
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\Content\Textures\Background.xnb
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\Content\Textures\TileSheet.xnb
+C:\Users\661066\Documents\Games\Library\FloodControl (MonoGame CSharp)\FloodControl (MonoGame CSharp)\bin\DesktopGL\AnyCPU\Debug\Content\Textures\TitleScreen.xnb

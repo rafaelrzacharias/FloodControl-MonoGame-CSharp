@@ -6,6 +6,8 @@ Download and install MonoGame for Visual Studio.
 
 Download the complete project with solution and placement art, build and enjoy!
 
+To try the game, please find the executable file in FloodControl (MonoGame CSharp)/bin/DesktopGL/AnyCPU/Debug/
+
 NOTES:
 - A simple, yet complete, puzzle game.
 - Features a TitleScreen, MainGame and GameOver state.
